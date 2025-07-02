@@ -1,4 +1,3 @@
-//your JS code here. If required.
 // Extract user agent
 const userAgent = navigator.userAgent;
 let browserName = "Unknown";
